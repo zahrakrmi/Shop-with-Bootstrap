@@ -1,0 +1,36 @@
+@media screen and (min-width:576px) {
+    
+}
+@media screen and (min-width:768px) {
+    section{
+        >div{
+            >figure{
+                display: flex;
+            }
+        }
+    }
+    footer{
+        display: flex;
+        >div{
+            >nav{
+                display: flex;
+            }
+        }
+        >div{
+            >p{
+                display: inline;
+                margin-top: 20px;
+            }
+        }
+    }
+}
+@media screen and (min-width:992px) {
+    
+}
+@media screen and (min-width:1200px) {
+ 
+
+}
+@media screen and (min-width:1400px) {
+    
+}
